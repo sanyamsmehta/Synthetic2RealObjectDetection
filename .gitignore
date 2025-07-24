@@ -1,0 +1,11 @@
+/Kaggle2StartingDataset
+/__pycache__
+/testImages
+/train
+/val
+sample_submission.csv
+training_progress.png
+/annotated_real_data
+/models
+main.py
+my_submission.csv
